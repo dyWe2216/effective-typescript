@@ -5,8 +5,8 @@
 - [아이템 1 - 타입스크립트와 자바스크립트의 관계 이해하기](https://www.notion.so/TypeScript-4a49182f9ceb4a95bfddfc068802bf32)
 - [아이템 2 - 타입스크립트 설정 이해하기](https://www.notion.so/TypeScript-4a49182f9ceb4a95bfddfc068802bf32)
 - [아이템 3 - 코드 생성과 타입이 관계없음을 이해하기](https://www.notion.so/effective-typescript-43d4017dd9a8460faed46859a767d6a7)
-- 아이템 4 - 구조적 타이핑에 익숙해지기
-- 아이템 5 - any 타입 지양하기
+- [아이템 4 - 구조적 타이핑에 익숙해지기](https://www.notion.so/effective-typescript-43d4017dd9a8460faed46859a767d6a7)
+- [아이템 5 - any 타입 지양하기](https://www.notion.so/effective-typescript-43d4017dd9a8460faed46859a767d6a7)
 
 ### 2장 타입스크립트의 타입 시스템
 
