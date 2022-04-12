@@ -13,7 +13,7 @@
 - [아이템 6 - 편집기를 사용하여 타입 시스템 탐색하기](https://www.notion.so/effective-typescript-43d4017dd9a8460faed46859a767d6a7)
 - [아이템 7 - 타입이 값들의 집합이라고 생각하기](https://www.notion.so/effective-typescript-43d4017dd9a8460faed46859a767d6a7)
 - [아이템 8 - 타입 공간과 값 공간의 심벌 구분하기](https://www.notion.so/effective-typescript-43d4017dd9a8460faed46859a767d6a7)
-- 아이템 9 - 타입 단언보다는 타입 선언을 사용하기
+- [아이템 9 - 타입 단언보다는 타입 선언을 사용하기](https://www.notion.so/effective-typescript-43d4017dd9a8460faed46859a767d6a7)
 - 아이템 10 - 객체 레퍼 타입 피하기
 - 아이템 11 - 잉여 속성 체크의 한계 인지하기
 - 아이템 12 - 함수 표현식에 타입 적용하기
