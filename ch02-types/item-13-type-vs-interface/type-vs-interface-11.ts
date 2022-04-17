@@ -1,0 +1,1 @@
+type NamedVariable = (Input | Output) & { name: string };

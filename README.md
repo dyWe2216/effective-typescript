@@ -15,9 +15,9 @@
 - [아이템 8 - 타입 공간과 값 공간의 심벌 구분하기](https://www.notion.so/effective-typescript-43d4017dd9a8460faed46859a767d6a7)
 - [아이템 9 - 타입 단언보다는 타입 선언을 사용하기](https://www.notion.so/effective-typescript-43d4017dd9a8460faed46859a767d6a7)
 - [아이템 10 - 객체 레퍼 타입 피하기](https://www.notion.so/effective-typescript-43d4017dd9a8460faed46859a767d6a7)
-- 아이템 11 - 잉여 속성 체크의 한계 인지하기
-- 아이템 12 - 함수 표현식에 타입 적용하기
-- 아이템 13 - 타입과 인터페이스의 차이점 알기
+- [아이템 11 - 잉여 속성 체크의 한계 인지하기](https://www.notion.so/effective-typescript-43d4017dd9a8460faed46859a767d6a7)
+- [아이템 12 - 함수 표현식에 타입 적용하기](https://www.notion.so/effective-typescript-43d4017dd9a8460faed46859a767d6a7)
+- [아이템 13 - 타입과 인터페이스의 차이점 알기](https://www.notion.so/effective-typescript-43d4017dd9a8460faed46859a767d6a7)
 - 아이템 14 - 타입 연산과 제너릭 사용으로 반복 줄이기
 - 아이템 15 - 동적 데이터에 인덱스 시그니처 사용하기
 - 아이템 16 - number 인덱스 시그니처보다는 Array, 튜플, ArrayLike를 사용하기
