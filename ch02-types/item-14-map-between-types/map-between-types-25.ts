@@ -1,0 +1,1 @@
+type UserInfo = ReturnType<typeof getUserInfo>

@@ -1,0 +1,1 @@
+type OptionsUpdate = {[k in keyof Options]?: Options[k]};

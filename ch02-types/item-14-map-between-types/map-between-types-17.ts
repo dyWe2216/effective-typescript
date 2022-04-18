@@ -1,0 +1,1 @@
+type ActionRec = Pick<Action, 'type'>; // type save | load

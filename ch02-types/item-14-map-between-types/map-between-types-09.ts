@@ -1,0 +1,1 @@
+type PersonWithBirthDate = Person & { birth: Date };
